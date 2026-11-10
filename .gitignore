@@ -1,5 +1,4 @@
 __pycache__/
 *.json
-*.csv
 .DS_Store
 spider_libros.py
