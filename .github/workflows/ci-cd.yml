@@ -27,3 +27,17 @@ jobs:
     - name: Validate script syntax
       run: |
         python -m py_compile Actividad1.py
+
+    - name: Run Web Scraping and Generate Dataset
+      run: |
+        python Actividad1.py
+
+    - name: Verify Dataset Exists
+      run: |
+        if [ -f "Gomez_Nolberto_Analizando_EA1.csv" ]; then
+          echo "Dataset successfully generated!"
+          cat Gomez_Nolberto_Analizando_EA1.csv
+        else
+          echo "Error: Dataset not found!"
+          exit 1
+        fi
