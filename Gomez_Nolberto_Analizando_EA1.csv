@@ -1,0 +1,14 @@
+﻿Método,Tienda,Criterio,Título / Edición,Precio_COP,Enlace
+BeautifulSoup4,BuscaLibre,Brandon Sanderson,El Rithmatista,N/A,/libro-el-rithmatista/9789585690660/p/51433075
+BeautifulSoup4,BuscaLibre,Brandon Sanderson,Desafiante (Escuadrón 4),N/A,/libro-desafiante-escuadron-4/9789585297524/p/55858261
+BeautifulSoup4,BuscaLibre,Brandon Sanderson,Citónica  (Escuadrón 3),N/A,/libro-citonica-escuadron-3/9789585206397/p/53946005
+BeautifulSoup4 / API,Panamericana,Brandon Sanderson,El héroe de las eras,"$72,000 COP",https://www.panamericana.com.co/el-heroe-de-las-eras-732133/p
+BeautifulSoup4 / API,Panamericana,Brandon Sanderson,El metal perdido,"$99,000 COP",https://www.panamericana.com.co/el-metal-perdido-730391/p
+BeautifulSoup4 / API,Panamericana,Brandon Sanderson,Yumi And The Nightmare Painter,"$89,000 COP",https://www.panamericana.com.co/yumi-and-the-nightmare-painter-695412/p
+BeautifulSoup4 / API,Librería Nacional,Brandon Sanderson,Danzante del Filo - Librería Nacional,"$79,000 COP",https://www.librerianacional.com/danzante-del-filo/p
+BeautifulSoup4 / API,Librería Nacional,Brandon Sanderson,Islas de la Ascuaoscura - Librería Nacional,"$125,000 COP",https://www.librerianacional.com/islas-de-la-ascuaoscura/p
+BeautifulSoup4 / API,Librería Nacional,Brandon Sanderson,Sombras de Identidad-422395 - Librería Nacional,"$119,000 COP",https://www.librerianacional.com/sombras-de-identidad/p
+BeautifulSoup4 / API,Panamericana,9786287737433,La casa de los espíritus,"$92,000 COP",https://www.panamericana.com.co/la-casa-de-los-espiritus-726224/p
+BeautifulSoup4 / API,Librería Nacional,9786287737433,La casa de los espíritus - Isabel Allende,"$92,000 COP",https://www.librerianacional.com/la-casa-de-los-espiritus-428024-editorial-plaza-y-janes/p
+Selenium WebDriver,BuscaLibre,9786287737433,La Casa de los Espíritus (edición especial con cantos tintados),N/A,https://www.buscalibre.com.co/libro-la-casa-de-los-espiritus-edicion-especial-con-cantos-tintados/9788401039805/p/64829069
+Scrapy Spider,Panamericana,9786287737433,La casa de los espíritus,"$92,000 COP",https://www.panamericana.com.co/la-casa-de-los-espiritus-726224/p
